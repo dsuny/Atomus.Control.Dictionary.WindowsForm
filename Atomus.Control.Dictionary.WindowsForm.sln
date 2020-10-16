@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30320.27
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Atomus.Control.Dictionary.WindowsForm(dotNet)", "dotNet\Atomus.Control.Dictionary.WindowsForm(dotNet).csproj", "{60130994-FBE7-4F89-950E-6AD6F7FDD3FE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{60130994-FBE7-4F89-950E-6AD6F7FDD3FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{60130994-FBE7-4F89-950E-6AD6F7FDD3FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{60130994-FBE7-4F89-950E-6AD6F7FDD3FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{60130994-FBE7-4F89-950E-6AD6F7FDD3FE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0101AF1E-D6DD-487D-9596-A93B0DF99A87}
+	EndGlobalSection
+EndGlobal
